@@ -7,7 +7,7 @@ import org.junit.runner.Result;
 
 import database.ConnectionBD;
 
-public class ConnectionTest {
+public class ConnectionBDTest {
 	
 	@Test
 	public void testConnectionBD() throws Exception{
