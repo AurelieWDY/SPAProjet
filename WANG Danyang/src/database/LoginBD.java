@@ -31,11 +31,11 @@ public class LoginBD {
 
 	public static void main(String[] args) throws Exception{
 	
-	ajouter(2, "wdy", "test");
-	rechercher("wdy");
-	modifier(2, "wdy", "test123");
-	supprimer(2);
-	rechercher("wdy");
+	//ajouter(2, "wdy", "test");
+	//rechercher("wdy");
+	//modifier(2, "wdy", "test123");
+	//supprimer(2);
+	//rechercher("wdy");
 	
 	try {
 		myConn = connectionBD();
